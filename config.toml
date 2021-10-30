@@ -9,6 +9,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
+enableEmoji             = true
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -36,8 +37,8 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
-    author              = "HTML5UP and Hugo"
+    description         = "A crowd-powered community directory of black and POC creators."
+    author              = "Crafting with Colour"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
@@ -63,7 +64,7 @@ disableLanguages        = []
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Crafting with Colour"
 
   [params.sidebar]
     about               = "This text needs to be replaced."
@@ -112,9 +113,9 @@ disableLanguages        = []
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "blog"
+    name              = "Directory"
+    identifier        = "directory"
+    url               = "directory"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
