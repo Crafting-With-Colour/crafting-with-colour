@@ -2,6 +2,6 @@
 title = "Contact"
 layout = "contact"
 netlify = false
-emailservice = "formspree.io/f/mpzkgrjn"
+emailservice = "formspree.io/jeremy@vyska.info"
 contactanswertime = 24
 +++
