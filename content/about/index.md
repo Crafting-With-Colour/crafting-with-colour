@@ -6,7 +6,20 @@ date = "2019-02-28"
 layout = "about"
 +++
 
-This website is [intended](https://twitter.com/_JaneyLaney/status/1453992199885033475) to be a directory of black and POC content creators.
+This website is [intended](https://twitter.com/_JaneyLaney/status/1453992199885033475) to be a directory of Black and POC Minecrafters.
+
+Who can be a Minecrafter? Someone who contributes to the Minecraft community in a positive and productive way. This includes:
+- Artists 
+- Content Creators (live stream and pre recorded)
+- Map Makers
+- Modders 
+- Podcasters 
+- Reddit contributers 
+- Skin creators
+- RP Voice Actors 
+
+ALL of the Minecrafters featured in this directory are ACTIVE and have given us permission to be on this directory. 
+
 
 ## Criteria to Be Listed
 
