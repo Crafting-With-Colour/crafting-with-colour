@@ -3,7 +3,7 @@ title = "Janey Laney"
 description = "Minecraft Streamer, Facebook Gaming Partner and Microsoft Xbox MVP"
 author = "Contributor"
 date = "2021-10-30"
-tags = ["minecraft", "facebook", "xbox", "microsoft"]
+tags = ["minecraft", "facebook", "xbox", "microsoft" , "BlackMinecraft"]
 categories = ["streaming", "gaming"]
 [[images]]
   src = "img/2021/10/janeylaney2.jpg"
