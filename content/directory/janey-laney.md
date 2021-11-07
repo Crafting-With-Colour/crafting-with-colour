@@ -19,4 +19,4 @@ You can find out more about Janey in all the following places:
 ------------|-----------------------------
    Facebook | [http://fb.gg/RealJaneyLaney](http://fb.gg/RealJaneyLaney)
     Twitter | [@_JaneyLaney](https://twitter.com/_JaneyLaney)
-
+    Youtube | [JaneyLaney](https://youtube.com/Janeylaney) 
