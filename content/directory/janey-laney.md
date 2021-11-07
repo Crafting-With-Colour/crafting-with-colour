@@ -21,5 +21,5 @@ You can find out more about Janey in all the following places:
     Twitter | [@_JaneyLaney](https://twitter.com/_JaneyLaney)
     Youtube | [JaneyLaney](https://youtube.com/Janeylaney) 
     
-+++
+
 Janey is also the creator of [BlackMinecraft](https://www.blackminecraft.com), which emphasises on diversity, inclusion, and representation in the Minecraft space (gaming and content creation)  
