@@ -8,9 +8,6 @@ categories = ["streaming", "gaming"]
 [[images]]
   src = "img/2021/10/janeylaney2.jpg"
   alt = "Janey Laney"
-[[images]]
-  src = "img/2021/10/janeylaney.jpg"
-  alt = "Janey Laney"
 +++
 
 Janey Laney describes herself as "Your Christian dog walker, who just so happens to book travel and stream video games."
