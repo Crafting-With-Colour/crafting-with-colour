@@ -13,6 +13,10 @@ categories = ["streaming", "gaming"]
 Janey Laney describes herself as "Your Christian dog walker, who just so happens to book travel and stream video games."
 <!--more-->
 
+Intro Video
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZJvecdrk0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 You can find out more about Janey in all the following places:
 
    Platform | Link
@@ -21,6 +25,7 @@ You can find out more about Janey in all the following places:
     Twitter | [@_JaneyLaney](https://twitter.com/_JaneyLaney)
     Youtube | [JaneyLaney](https://youtube.com/Janeylaney)
      Anchor | [BlackMinecraft: the Podcast](https://www.anchor.fm/BlackMinecraft)
+   Xbox MVP | [Xbox MVP](https://mvp.xbox.com/profile/6000148) 
     
 
 Janey is also the creator of [BlackMinecraft](https://www.blackminecraft.com), which emphasises on diversity, inclusion, and representation in the Minecraft space (gaming and content creation).  
