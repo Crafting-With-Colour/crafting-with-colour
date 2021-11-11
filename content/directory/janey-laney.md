@@ -14,9 +14,10 @@ Janey Laney describes herself as "Your Christian dog walker, who just so happens
 <!--more-->
 
 Intro Video
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZJvecdrk0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+<!-- Testing Hugo's Shortcode for YouTube -->
+{{< youtube OZJvecdrk0Q >}}
+
 You can find out more about Janey in all the following places:
 
    Platform | Link
