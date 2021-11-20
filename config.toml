@@ -67,7 +67,7 @@ enableEmoji             = true
       alt                 = "Crafting with Colour"
 
   [params.sidebar]
-    about               = "This text needs to be replaced."
+    about               = "This website is intended to be a directory of Black and POC Minecrafters."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
