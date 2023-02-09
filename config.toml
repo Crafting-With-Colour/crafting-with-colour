@@ -42,8 +42,8 @@ enableEmoji             = true
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ffffff"
-    iOSColor            = "#ffffff"
+    msColor             = "#000000"
+    iOSColor            = "#000000"
 
   [params.header]
     navbarTitle         = "Crafting with Colour"
